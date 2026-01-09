@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# I'm Nicolas Matheus
+I'm Nicolas Matheus
 <!--
 **nicolas-matheus/nicolas-matheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
