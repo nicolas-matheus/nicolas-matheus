@@ -8,6 +8,6 @@ I work mostly on web applications using Ruby and its framework — Ruby on Rails
 
 ## Tools & Tech
 
-Ruby, Ruby on Rails, JavaScript.
-MySQL, PostgreSQL
+- Ruby, Ruby on Rails, JavaScript.
+- MySQL, PostgreSQL
 
