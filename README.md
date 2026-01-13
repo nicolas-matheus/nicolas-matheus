@@ -1,17 +1,13 @@
-## Hi there 👋
+## 'Sup there!
 
-I'm Nicolas Matheus
-<!--
-**nicolas-matheus/nicolas-matheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Nicolas Matheus, a Back-End Developer from Brazil.
 
-Here are some ideas to get you started:
+I have 1 year & 11 months of working with Ruby to create structural and flexible projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work mostly on web applications using Ruby and its framework — Ruby on Rails.
+
+## Tools & Tech
+
+Ruby, Ruby on Rails, JavaScript.
+MySQL, PostgreSQL
+
