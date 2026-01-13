@@ -1,4 +1,4 @@
-## 'Sup there!
+## 'Sup there! ^_^
 
 I'm Nicolas Matheus, a Back-End Developer from Brazil.
 
